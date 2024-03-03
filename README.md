@@ -1,6 +1,6 @@
 # Maggie
 
-Hi 👋, I'm Maggie! I decompile games.
+Hi 👋, I'm Clockaa!
 
 ## Projects
 
@@ -12,6 +12,6 @@ Hi 👋, I'm Maggie! I decompile games.
 
 [Discord](https://discord.com/users/514246650378715154)
 
-[Links](http://maggie.k.vu/)
+[Links](https://example.com/)
 
 
