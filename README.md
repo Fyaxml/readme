@@ -1,6 +1,5 @@
-# Clockaa
+# Fya
 
-Hi 👋, I'm Clockaa!
 
 ## Projects
 
